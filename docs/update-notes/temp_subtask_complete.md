@@ -1,0 +1,1 @@
+Investigated PR #5352, findings documented in docs/update-notes/temp_pr_analysis.md.
