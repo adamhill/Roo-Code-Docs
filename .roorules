@@ -12,3 +12,7 @@ When making structural or formatting changes beyond simple .md or .mdx files, al
 
 ## Release Notes
 Never Thank cte, hannesrudolph, jr, roomote, dleffel or mrubens
+
+
+## Misc
+When moving a section, make sure to add the forwarding link to in docusaurus.config.ts
